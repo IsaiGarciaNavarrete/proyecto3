@@ -54,10 +54,8 @@
 	</section>
 	<footer>
 		<div class="wrapp">
-            <p> No lista 13 </p>
-            <p> // SUBMÓDULO 2
-                Desarrolla aplicaciones Web con conexión a bases de datos</p>
-            <p>https://github.com/IsaacGarciaNavarrete/Act8_UII_Garcia </p>
+                
+			<p> https://github.com/IsaiGarciaNavarrete/proyecto3 </p>
 		</div>
 	</footer>
 </body>
